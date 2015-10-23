@@ -10,6 +10,8 @@ List of interview questions for Java Developer role
 - Describe structure of JVM.
 - Tell something about `hashCode()` and `equals()` methods.
 - Can `hashCode()` return constant value? Explain your answer.
+- Can two objects have the same hashCode?
+- When `obj1.equals(obj2)` is true, then is it possible that `obj1` and `obj2` have different hashCodes?
 - Describe `StringBuilder` and `StringBuffer` classes. What are differences between them?
 - Do you know `java.util.concurrent` package? Tell something about its contents.
 - Do you know any frameworks for concurrent programming?
