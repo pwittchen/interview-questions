@@ -62,7 +62,8 @@ List of interview questions for Java Developer role
 - Describe REST.
   - What request methods can you use for getting/inserting/updating/deleting data?
   - What is common protocol for REST
-  - how good RESTful end-point should look like?
+  - How good RESTful end-point should look like?
+  - What are principles of designing good RESTful API?
   
 **Others**
   - What operating system do you prefer and why?
