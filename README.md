@@ -7,5 +7,5 @@ Collection of general interview questions for software developer role. It can be
 
 Available lists
 ---------------
-- [Java Developer](https://github.com/pwittchen/interview-questions/blob/master/java-developer.MD)
-- [Android Developer](https://github.com/pwittchen/interview-questions/blob/master/android-developer.MD)
+- [Java Developer](https://github.com/pwittchen/interview-questions/blob/master/java-developer.md)
+- [Android Developer](https://github.com/pwittchen/interview-questions/blob/master/android-developer.md)
