@@ -1,7 +1,9 @@
 Interview questions
 ===================
 
-Repository collecting interview questions for software developer role. It can be useful for candidates searching for a job and recruiters looking for a new developers.
+Repository collecting interview questions for software developer role. 
+
+It can be useful for candidates searching for a job and recruiters looking for a new developers.
 
 Available lists
 ---------------
