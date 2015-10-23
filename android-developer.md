@@ -18,5 +18,6 @@ List of interview questions for Android Developer role
 - Do you know RxJava and RxAndroid? How can you use it?
 - What build systems do you know?
 - How can you use Gradle to automate and improve your work?
-- How can you wake device, when it's asleep? (e.g. while creating an alarm or phone app)
+- How can you wake device uo, when it's asleep? (e.g. while creating an alarm or phone app)
+- Have you written any annotation processor? Do you know, how to do this?
 - ...
