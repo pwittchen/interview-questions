@@ -21,4 +21,8 @@ List of interview questions for Android Developer role
 - How can you wake device uo, when it's asleep? (e.g. while creating an alarm or phone app)
 - Have you written any annotation processor? Do you know, how to do this?
 - How will you create logs for LogCat in your application to make them unavailable in the production app?
-- ...
+- Tell a few words about Dalvik
+- Tell a few words about ART
+- What is `.dex` file?
+- What needs to be done to publish app in the Google Play Store?
+- What do you know about ProGuard
