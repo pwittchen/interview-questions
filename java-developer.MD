@@ -42,6 +42,8 @@ List of interview questions for Java Developer role
 **Software development methodologies**
 - In what methodologies did you work?
 - Do you know scrum? Describe it.
+- Can you describe kanban model?
+- Can you describe waterfall model?
 
 **Testing**
 - What types of tests do you know?
