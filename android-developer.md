@@ -1,4 +1,21 @@
 List of interview questions for Android Developer role
 ------------------------------------------------------
 
-TBD.
+- What's the difference between Activity Context and Application Context? When to use which?
+- How can you persist data in the Activity after the screen rotation?
+- What is Retained Fragment?
+- How do you consume web services in Android?
+- How do you handle multithreaded operations in Android?
+- What are possible methods of concurrent programming in Android?
+- Do you think that using AsyncTask is good practice? Explain your question?
+- How can you test mobile applications?
+- What classes derives from `Context` class?
+- How can you handle background operations?
+- How can you pass data between Activities?
+- How can you pass data between Activity and Service?
+- What is the difference between Service and IntentService?
+- What are news introduced in the latest API?
+- Do you know RxJava and RxAndroid? How can you use it?
+- What build systems do you know?
+- How can you use Gradle to automate and improve your work?
+- ...
