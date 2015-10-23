@@ -5,7 +5,9 @@ List of interview questions for Java Developer role
 - Describe access modifiers (private, protected, public) and differences between them.
 - Describe difference between interface and abstract class.
 - Describe how does Garbage Collector works.
-- Describe Structure of Java Heap.
+- What are types of Garbage Collector? When to use which?
+- Describe structure of Java Heap.
+- Describe structure of JVM.
 - Tell something about `hashCode()` and `equals()` methods.
 - Can `hashCode()` return constant value? Explain your answer.
 - Describe `StringBuilder` and `StringBuffer` classes. What are differences between them?
