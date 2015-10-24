@@ -7,6 +7,7 @@ Collection of interview questions for software developer role. It can be useful 
 
 Available lists
 ---------------
+- [General interview questions (non-technical)](https://github.com/pwittchen/interview-questions/blob/master/general-questions.md)
 - [Java Developer interview questions](https://github.com/pwittchen/interview-questions/blob/master/java-developer.md)
 - [Android Developer interview questions](https://github.com/pwittchen/interview-questions/blob/master/android-developer.md)
 
