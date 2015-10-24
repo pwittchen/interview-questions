@@ -3,6 +3,7 @@ List of interview questions for Java Developer role
 
 **Java language and JVM**
 - Describe access modifiers (private, protected, public) and differences between them.
+- What is inheritance?
 - Describe difference between interface and abstract class.
 - Describe how does Garbage Collector works.
 - What are types of Garbage Collector? When to use which?
