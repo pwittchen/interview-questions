@@ -18,8 +18,8 @@ As a candidate for software developer role you have to be prepared for general, 
 - Do you plan to dive into technical roles or to be a manager?
 - Did you take any risky decisions? What was the final effect of it?
 - What do you do when someone criticize your work?
-- With what kind of manager would you like to work?
-- With what kind of people would you like to work?
+- What kind of manager would you like to work with?
+- What kind of people would you like to work with?
 - What are the things you like at work?
 - What are the things you don't like at work?
 - In what kind of environment would you like to work?
