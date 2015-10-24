@@ -26,3 +26,4 @@ List of interview questions for Android Developer role
 - What is `.dex` file?
 - What needs to be done to publish app in the Google Play Store?
 - What do you know about ProGuard
+- How can you deal with `OutOfMemoryError` while loading large images?
