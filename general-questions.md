@@ -9,8 +9,8 @@ As a candidate for software developer role you have to be prepared for general, 
 - What type of agreement do you prefer?
 
 **Not formal**
-- Tell something about your experience?
-- Tell something about your projects?
+- Tell something about your experience.
+- Tell something about your projects.
 - What are your motivations to change the job?
 - Do you know something about company and its products? What's your opinion about it?
 - Where do you see yourself in 5 years?
