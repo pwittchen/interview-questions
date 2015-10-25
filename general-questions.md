@@ -14,8 +14,8 @@ As a candidate for software developer role you have to be prepared for general, 
 - What are your motivations to change the job?
 - Do you know something about company and its products? What's your opinion about it?
 - Where do you see yourself in 5 years?
-- Do you consider yourself as a leader or follower?
-- Do you plan to dive into technical roles or to be a manager?
+- Do you consider yourself as a leader or a follower?
+- Do you plan to dive into technical roles or to be a manager in the future?
 - Did you take any risky decisions? What was the final effect of it?
 - What do you do when someone criticize your work?
 - What kind of manager would you like to work with?
