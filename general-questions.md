@@ -22,5 +22,5 @@ As a candidate for software developer role you have to be prepared for general, 
 - What kind of people would you like to work with?
 - What are the things you like at work?
 - What are the things you don't like at work?
-- In what kind of environment would you like to work?
-- How you learn new things and gather the knowledge?
+- What kind of environment would you like to work in?
+- How do you learn new things and gather the knowledge?
