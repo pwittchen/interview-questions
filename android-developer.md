@@ -4,6 +4,8 @@ List of interview questions for Android Developer role
 - What's the difference between Activity Context and Application Context? When to use which?
 - How can you persist data in the Activity after the screen rotation?
 - What is Retained Fragment?
+- Can you describe Activity Lifecycle?
+- Can you describe Fragment Lifecycle? (side note: IMO it's too complicated to know it by heart)
 - How do you consume web services in Android?
 - How do you handle multithreaded operations in Android?
 - What are possible methods of concurrent programming in Android?
