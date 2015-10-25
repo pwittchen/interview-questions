@@ -9,7 +9,7 @@ List of interview questions for Java Developer role
 - What are types of Garbage Collector? When to use which?
 - Describe structure of Java Heap.
 - Describe structure of JVM.
-- Tell something about `hashCode()` and `equals()` methods.
+- Tell something about `hashCode()` and `equals()` methods. What contract they need to satisfy?
 - Can `hashCode()` return constant value? Explain your answer.
 - Can two objects have the same hashCode?
 - When `obj1.equals(obj2)` is true, then is it possible that `obj1` and `obj2` have different hashCodes?
@@ -20,12 +20,28 @@ List of interview questions for Java Developer role
 - Describe overriding and overloading. What are differences between them?
 - Describe keywords `final`, `finally` and `finalize()`.
 - What is immutable object and how can you create it?
+- Does all properties of immutable object need to be final?
+- What is the difference between creating `String` with `new` operator and literal?
 - Describe checked and unchecked exceptions. What are differences between them? When can we use specific type of exception and why?
+- How does `substring()` works inside?
+- Which method you need to implement to use obejct as key in a `HashMap`?
+- Where do equals and hashcode come in the picture during `get(...)` operation?
+- What's the difference between `Executor.submit()` and `Executor.execute()` method
+- Can you write thread-safe Singleton?
+- Write code iterating over `HashMap`
+- Is it better to synchronize critical section of `getInstance()` or whole `getInstance()` method?
+- What's wrong with using `HashMap` in multithreaded environment?
+- Do you know any thread-safe collections?
+- How would you prevent client from directly instantiation your concrete class?
+- What's the difference between `HashMap` and `HashTable`?
+- How does `HashMap` works?
 
 **Design Patterns**
 
 - What design patterns do you know?
 - Describe facade/adapter/builder/{any} pattern.
+- What's the difference between factory and abstract factory pattern?
+- What is Singleton?
 
 **Good software development practices**
 
