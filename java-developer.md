@@ -31,10 +31,14 @@ List of interview questions for Java Developer role
 - Write code iterating over `HashMap`
 - Is it better to synchronize critical section of `getInstance()` or whole `getInstance()` method?
 - What's wrong with using `HashMap` in multithreaded environment?
+- How to create, start, destroy and block Threads in Java?
 - Do you know any thread-safe collections?
 - How would you prevent client from directly instantiation your concrete class?
 - What's the difference between `HashMap` and `HashTable`?
 - How does `HashMap` works?
+- Describe shortcuts: JNI, JNDI, JAAS
+- Describe differences between `Filter` and `Servlet`
+
 
 **Design Patterns**
 
