@@ -11,6 +11,12 @@ Available lists
 - [Java Developer interview questions](https://github.com/pwittchen/interview-questions/blob/master/java-developer.md)
 - [Android Developer interview questions](https://github.com/pwittchen/interview-questions/blob/master/android-developer.md)
 
+Other lists
+-----------
+
+- https://github.com/MaximAbramchuck/awesome-interviews
+
+
 Contributing
 ------------
 
