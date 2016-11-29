@@ -22,7 +22,7 @@ Books worth reading
 - [Clean Code](http://helion.pl/ksiazki/czysty-kod-podrecznik-dobrego-programisty-robert-c-martin,czykov.htm)
 - [Effective Java](http://helion.pl/ksiazki/java-efektywne-programowanie-wydanie-ii-joshua-bloch,javep2.htm)
 - [Test Driven Development](http://helion.pl/ksiazki/tdd-sztuka-tworzenia-dobrego-kodu-kent-beck,tddszt.htm)
-- [Algorytmy, struktury danych i techniki programowania. Wydanie IV](http://helion.pl/ksiazki/algorytmy-struktury-danych-i-techniki-programowania-wydanie-iv-piotr-wroblewski,algo4.htm) or any good book about algorithms
+- [Algorytmy, struktury danych i techniki programowania](http://helion.pl/ksiazki/algorytmy-struktury-danych-i-techniki-programowania-wydanie-iv-piotr-wroblewski,algo4.htm) or any good book about algorithms
 
 Contributing
 ------------
