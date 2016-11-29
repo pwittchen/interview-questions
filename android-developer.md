@@ -18,6 +18,7 @@ List of interview questions for Android Developer role
 - What is the difference between Service and IntentService?
 - What are news introduced in the latest API?
 - Do you know RxJava and RxAndroid? How can you use it?
+- What's the difference between RxJava 1 and RxJava 2?
 - What build systems do you know?
 - How can you use Gradle to automate and improve your work?
 - How can you wake device uo, when it's asleep? (e.g. while creating an alarm or phone app)
