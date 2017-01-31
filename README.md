@@ -17,6 +17,10 @@ Other lists
 - https://github.com/MaximAbramchuck/awesome-interviews
 - https://github.com/JackyAndroid/AndroidInterview-Q-A
 
+Questions for employers
+-----------------------
+- https://github.com/ChiperSoft/InterviewThis
+
 Books worth reading
 -------------------
 - [Clean Code](http://helion.pl/ksiazki/czysty-kod-podrecznik-dobrego-programisty-robert-c-martin,czykov.htm)
