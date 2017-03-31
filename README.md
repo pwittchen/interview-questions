@@ -16,7 +16,7 @@ Other lists
 
 - https://github.com/MaximAbramchuck/awesome-interviews
 - https://github.com/JackyAndroid/AndroidInterview-Q-A
-- https://github.com/kdn251/interviews
+- https://github.com/kdn251/interviews - algorithmic interview questions for Google, Facebook, Uber, Airbnb, etc.
 - https://github.com/SuyashLakhotia/TechInterview
 
 Questions for employers
@@ -33,6 +33,7 @@ Books worth reading
 Others
 ------
 - [Hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 Contributing
 ------------
