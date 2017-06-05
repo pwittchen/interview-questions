@@ -19,6 +19,7 @@ Other lists
 - https://github.com/kdn251/interviews - algorithmic interview questions at Google, Facebook, Uber, Airbnb, etc.
 - https://github.com/SuyashLakhotia/TechInterview
 - https://github.com/sherxon/AlgoDS
+- https://github.com/karan/Projects - programming problems to solve in different languages
 
 Questions for employers
 -----------------------
