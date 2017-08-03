@@ -63,7 +63,7 @@ List of interview questions for Java Developer role
 
 **Continuous Integration**
 - What types of Continous Integration Servers do you know? Have you used any?
-- What did you do in you projects on Jobs in CI Servers?
+- How did you used Jenkins or other CI Server in your work?
 
 **Software development methodologies**
 - In what methodologies did you work?
@@ -90,6 +90,7 @@ List of interview questions for Java Developer role
 **Others**
   - What operating system do you prefer and why?
   - What are news introduced in Java 8?
+  - What are news introduced in Java 9?  
   - What technical book did you read recently?
   - What are your methods for learning new things?
   
