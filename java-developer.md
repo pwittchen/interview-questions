@@ -40,7 +40,6 @@ List of interview questions for Java Developer role
 - Describe shortcuts: JNI, JNDI, JAAS
 - Describe differences between `Filter` and `Servlet`
 
-
 **Design Patterns**
 
 - What design patterns do you know?
@@ -54,6 +53,19 @@ List of interview questions for Java Developer role
 - When you take a look at the code how do you recognize if it's clean and well written?
 - How would you design method in the right way?
 - What is loose coupling?
+
+**Programming Paradigms**
+- Describe structural programming paradigm
+- Describe Object-Oriented Programming paradigm
+- Describe functional programming paradigm
+- Describe reactive programming paradigm
+
+**Multi-threading & Concurrency**
+- What problems can we solve with multi-threaded programs?
+- What problems do we have during writing multi-threaded programs?
+- How to deal with problems occurring in multi-threaded programs?
+- What multi-threaded programming models do you know?
+- How do you implement different multi-threaded programming models in Java?
 
 **Version Control Systems**
 - What kind of Version Control Systems do you know?
