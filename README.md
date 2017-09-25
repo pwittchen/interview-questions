@@ -13,7 +13,6 @@ Available lists
 
 Other lists
 -----------
-
 - https://github.com/MaximAbramchuck/awesome-interviews
 - https://github.com/JackyAndroid/AndroidInterview-Q-A
 - https://github.com/MindorksOpenSource/android-interview-questions
@@ -23,6 +22,10 @@ Other lists
 - https://github.com/karan/Projects - programming problems to solve in different languages
 - https://github.com/coells/100days
 - https://github.com/ryanbas21/interview_questions
+
+Books and guides
+----------------
+- https://github.com/yangshun/tech-interview-handbook
 
 Questions for employers
 -----------------------
