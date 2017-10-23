@@ -42,6 +42,7 @@ Others
 ------
 - [Hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 
 Contributing
 ------------
