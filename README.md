@@ -38,6 +38,11 @@ Books worth reading
 - [Test Driven Development](http://helion.pl/ksiazki/tdd-sztuka-tworzenia-dobrego-kodu-kent-beck,tddszt.htm)
 - [Algorytmy, struktury danych i techniki programowania](http://helion.pl/ksiazki/algorytmy-struktury-danych-i-techniki-programowania-wydanie-iv-piotr-wroblewski,algo4.htm) or any good book about algorithms
 
+Resources about Java
+--------------------
+- [Effective Java Summary](https://github.com/HugoMatilla/Effective-JAVA-Summary)
+- [Jenkov Tutorials](http://tutorials.jenkov.com/)
+
 Others
 ------
 - [Hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards)
