@@ -23,25 +23,27 @@ Other lists
 - https://github.com/coells/100days
 - https://github.com/ryanbas21/interview_questions
 
-Books and guides
-----------------
+Books and guides about interviews
+---------------------------------
+- [Cracking Coding Interview](https://www.amazon.de/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
 - https://github.com/yangshun/tech-interview-handbook
 
-Questions for employers
------------------------
-- https://github.com/ChiperSoft/InterviewThis
-
-Books worth reading
--------------------
+Books about coding
+------------------
 - [Clean Code](http://helion.pl/ksiazki/czysty-kod-podrecznik-dobrego-programisty-robert-c-martin,czykov.htm)
-- [Effective Java](http://helion.pl/ksiazki/java-efektywne-programowanie-wydanie-ii-joshua-bloch,javep2.htm)
 - [Test Driven Development](http://helion.pl/ksiazki/tdd-sztuka-tworzenia-dobrego-kodu-kent-beck,tddszt.htm)
+- [Effective Java](http://helion.pl/ksiazki/java-efektywne-programowanie-wydanie-ii-joshua-bloch,javep2.htm)
+- [Java Concurrency In Practice](https://www.amazon.de/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601/)
 - [Algorytmy, struktury danych i techniki programowania](http://helion.pl/ksiazki/algorytmy-struktury-danych-i-techniki-programowania-wydanie-iv-piotr-wroblewski,algo4.htm) [PL] or any good book about algorithms
 
 Resources about Java
 --------------------
 - [Effective Java Summary](https://github.com/HugoMatilla/Effective-JAVA-Summary)
 - [Jenkov Tutorials](http://tutorials.jenkov.com/)
+
+Questions for employers
+-----------------------
+- https://github.com/ChiperSoft/InterviewThis
 
 Others
 ------
