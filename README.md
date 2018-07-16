@@ -35,6 +35,10 @@ Books and guides about interviews
 - [Cracking Coding Interview](https://www.amazon.de/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
 - https://github.com/yangshun/tech-interview-handbook
 
+System design
+-------------
+- https://github.com/donnemartin/system-design-primer
+
 Books about coding
 ------------------
 - [Clean Code](http://helion.pl/ksiazki/czysty-kod-podrecznik-dobrego-programisty-robert-c-martin,czykov.htm)
