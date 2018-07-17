@@ -39,10 +39,6 @@ Books and guides about interviews
 - [Cracking Coding Interview](https://www.amazon.de/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
 - https://github.com/yangshun/tech-interview-handbook
 
-System design
--------------
-- https://github.com/donnemartin/system-design-primer
-
 Books about coding
 ------------------
 - [Clean Code](http://helion.pl/ksiazki/czysty-kod-podrecznik-dobrego-programisty-robert-c-martin,czykov.htm)
@@ -51,10 +47,15 @@ Books about coding
 - [Java Concurrency In Practice](https://www.amazon.de/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601/)
 - [Algorytmy, struktury danych i techniki programowania](http://helion.pl/ksiazki/algorytmy-struktury-danych-i-techniki-programowania-wydanie-iv-piotr-wroblewski,algo4.htm) [PL] or any good book about algorithms
 
+System design
+-------------
+- https://github.com/donnemartin/system-design-primer
+
 Resources about Java
 --------------------
 - [Effective Java Summary](https://github.com/HugoMatilla/Effective-JAVA-Summary)
 - [Jenkov Tutorials](http://tutorials.jenkov.com/)
+- [Java Concurrency in Practice](http://jcip.net/)
 
 Questions for employers
 -----------------------
