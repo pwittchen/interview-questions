@@ -30,6 +30,10 @@ Other lists on GitHub
 - https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
 - https://github.com/mission-peace/interview - mostly algorithic questions
 
+Mind maps
+---------
+- https://github.com/KieSun/InterviewMap
+
 Books and guides about interviews
 ---------------------------------
 - [Cracking Coding Interview](https://www.amazon.de/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
