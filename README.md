@@ -11,11 +11,6 @@ Available lists
 - [Java Developer interview questions](https://github.com/pwittchen/interview-questions/blob/master/java-developer.md)
 - [Android Developer interview questions](https://github.com/pwittchen/interview-questions/blob/master/android-developer.md)
 
-Articles on the web
--------------------
-
-TBD.
-
 Other lists on GitHub
 ---------------------
 - https://github.com/MaximAbramchuck/awesome-interviews
@@ -28,6 +23,7 @@ Other lists on GitHub
 - https://github.com/coells/100days
 - https://github.com/ryanbas21/interview_questions
 - https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
+- https://github.com/anitaa1990/Android-Cheat-sheet#java-interview-questions
 - https://github.com/mission-peace/interview - mostly algorithic questions
 
 Mind maps
