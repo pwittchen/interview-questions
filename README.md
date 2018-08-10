@@ -26,8 +26,8 @@ Other lists on GitHub
 - https://github.com/anitaa1990/Android-Cheat-sheet - java, android & general
 - https://github.com/mission-peace/interview - mostly algorithic questions
 
-Questions on-line
-----------------
+Questions on-line (Java)
+------------------------
 - https://howtodoinjava.com/java-interview-questions/
 - https://www.edureka.co/blog/interview-questions/java-interview-questions/
 - https://www.journaldev.com/2366/core-java-interview-questions-and-answers
