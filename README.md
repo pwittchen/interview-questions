@@ -26,6 +26,10 @@ Other lists on GitHub
 - https://github.com/anitaa1990/Android-Cheat-sheet - java, android & general
 - https://github.com/mission-peace/interview - mostly algorithic questions
 
+Resurces on-line
+----------------
+- https://howtodoinjava.com/java-interview-questions/
+
 Mind maps
 ---------
 - https://github.com/KieSun/InterviewMap
