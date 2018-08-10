@@ -29,6 +29,12 @@ Other lists on GitHub
 Questions on-line
 ----------------
 - https://howtodoinjava.com/java-interview-questions/
+- https://www.edureka.co/blog/interview-questions/java-interview-questions/
+- https://www.journaldev.com/2366/core-java-interview-questions-and-answers
+- https://intellipaat.com/interview-question/java-interview-questions/
+- https://www.guru99.com/java-interview-questions-answers.html
+- https://www.javatpoint.com/corejava-interview-questions
+- https://www.tutorialspoint.com/java/java_interview_questions.htm
 
 Mind maps
 ---------
