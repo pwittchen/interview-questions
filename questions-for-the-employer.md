@@ -11,6 +11,8 @@ List of the questions for the employer
 - Do you use issue tracking system? Which one?
 - Do you use Continuous Integration Server? Which one?
 - Do you use Version Control System? Which one?
+- Do you use Static Code Analysis?
+- Do you have project code style defined?
 - Do you pratice code reviews?
 - Do you practice pair programming?
 - Do you practice clean code principles at work?
