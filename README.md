@@ -10,6 +10,7 @@ Available lists
 - [General interview questions (non-technical)](https://github.com/pwittchen/interview-questions/blob/master/general-questions.md)
 - [Java Developer interview questions](https://github.com/pwittchen/interview-questions/blob/master/java-developer.md)
 - [Android Developer interview questions](https://github.com/pwittchen/interview-questions/blob/master/android-developer.md)
+- [JavaScript Developer interview questions](https://github.com/pwittchen/interview-questions/blob/master/javascript-developer.md)
 
 Questions for the employer
 --------------------------
