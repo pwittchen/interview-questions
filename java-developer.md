@@ -53,6 +53,8 @@ List of interview questions for Java Developer role
 - Why injecting components via constructor (with `@Autowired` annotation) is better than injecting them via annotations on class attributes?
 - When should we use aspects?
 - How to create aspect and what should it have?
+- How to create async operations?
+- How to schedule operations?
 
 **Design Patterns**
 
