@@ -40,6 +40,20 @@ List of interview questions for Java Developer role
 - Describe shortcuts: JNI, JNDI, JAAS
 - Describe differences between `Filter` and `Servlet`
 
+**Spring**
+- What bean scopes do we have?
+- What's default bean scope?
+- How many instances bean has by default?
+- How can we wire beans and components?
+- How can we inject components?
+- How Spring wires components and beans under the hood?
+- What's new in Spring Boot when we compare it to Spring Core
+- What `@SpringBoot` annotation has under the hood?
+- When we explicitly call a method without any annotation, which calls internally a method with `@Transactional` annotation, then the whole operation will be transactional? Explain why?
+- Why injecting components via constructor (with `@Autowired` annotation) is better than injecting them via annotations on class attributes?
+- When should we use aspects?
+- How to create aspect and what should it have?
+
 **Design Patterns**
 
 - What design patterns do you know?
