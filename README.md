@@ -1,7 +1,7 @@
 Interview questions
 ===================
 
-Collection of interview questions for software developer role. It can be useful for candidates searching for a job and recruiters looking for new developers. I've also added a list of questions for the pontential employer here, which can be useful during verification if the quality of the company is high or low.
+Collection of interview questions for software developer role. It can be useful for candidates searching for a job and recruiters looking for new developers. These lists contain questions I've got during my interviews and questions, which I gathered from the web and other people. I've also added a list of questions for the pontential employer here, which can be useful during verification if the quality of the company is high or low.
 
 **Please note**: every company has different hiring politics and knowing answers for these questions may be not enough.
 
