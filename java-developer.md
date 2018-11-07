@@ -25,7 +25,7 @@ List of interview questions for Java Developer role
 - What is the difference between creating `String` with `new` operator and literal?
 - Describe checked and unchecked exceptions. What are differences between them? When can we use specific type of exception and why?
 - How does `substring()` works inside?
-- Which method you need to implement to use obejct as key in a `HashMap`?
+- Which method you need to implement to use object as key in a `HashMap`?
 - Where do equals and hashcode come in the picture during `get(...)` operation?
 - What's the difference between `Executor.submit()` and `Executor.execute()` method
 - Can you write thread-safe Singleton?
