@@ -39,6 +39,7 @@ List of interview questions for Java Developer role
 - How does `HashMap` works?
 - Describe shortcuts: JNI, JNDI, JAAS
 - Describe differences between `Filter` and `Servlet`
+- Does `LocalDateTime` have information about time zone? If not, then how to define time zone?
 
 **Spring**
 - What bean scopes do we have?
