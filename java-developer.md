@@ -71,6 +71,7 @@ List of interview questions for Java Developer role
 - When you take a look at the code how do you recognize if it's clean and well written?
 - How would you design method in the right way?
 - What is loose coupling?
+- what is recommended maximum length of the method?
 
 **Programming Paradigms**
 - Describe structural programming paradigm
