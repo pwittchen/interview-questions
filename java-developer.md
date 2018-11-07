@@ -7,9 +7,10 @@ List of interview questions for Java Developer role
 - Describe difference between interface and abstract class.
 - Is it possible that one class can be both abstract and final at the same time?
 - Describe how does Garbage Collector works.
-- What are types of Garbage Collector? When to use which?
+- What types Garbage Collector do we have? When to use which?
 - Describe structure of Java Heap.
 - Describe structure of JVM.
+- What is the difference between Stack and Heap?
 - Tell something about `hashCode()` and `equals()` methods. What contract they need to satisfy?
 - Can `hashCode()` return constant value? Explain your answer.
 - Can two objects have the same hashCode?
