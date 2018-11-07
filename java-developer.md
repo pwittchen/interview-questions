@@ -50,7 +50,7 @@ List of interview questions for Java Developer role
 - How can we inject components?
 - How Spring wires components and beans under the hood?
 - What's new in Spring Boot when we compare it to Spring Core
-- What `@SpringBoot` annotation has under the hood?
+- What `@SpringBootApplication` annotation has under the hood?
 - When we explicitly call a method without any annotation, which calls internally a method with `@Transactional` annotation, then the whole operation will be transactional? Explain why?
 - Why injecting components via constructor (with `@Autowired` annotation) is better than injecting them via annotations on class attributes?
 - When should we use aspects?
