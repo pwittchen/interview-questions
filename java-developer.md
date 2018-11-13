@@ -123,8 +123,7 @@ List of interview questions for Java Developer role
   
 **Others**
   - What operating system do you prefer and why?
-  - What are news introduced in Java 8?
-  - What are news introduced in Java 9?  
+  - What are news introduced in Java 8/9/10/11?
   - What technical book did you read recently?
   - What are your methods for learning new things?
   
