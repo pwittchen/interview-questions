@@ -41,6 +41,8 @@ List of interview questions for Java Developer role
 - Describe shortcuts: JNI, JNDI, JAAS
 - Describe differences between `Filter` and `Servlet`
 - Does `LocalDateTime` have information about time zone? If not, then how to define time zone?
+- What are differences between `Array` and `ArrayList`?
+- When should we use `LinkedList` and when `ArrayList`?
 
 **Spring**
 - What bean scopes do we have?
