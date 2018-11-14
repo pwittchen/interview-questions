@@ -42,6 +42,7 @@ Questions on-line (Java)
 - https://www.guru99.com/java-interview-questions-answers.html
 - https://www.javatpoint.com/corejava-interview-questions
 - https://www.tutorialspoint.com/java/java_interview_questions.htm
+- https://javarevisited.blogspot.com/2011/04/top-20-core-java-interview-questions.html
 
 Mind maps
 ---------
