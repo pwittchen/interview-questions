@@ -43,6 +43,7 @@ List of interview questions for Java Developer role
 - Does `LocalDateTime` have information about time zone? If not, then how to define time zone?
 - What are differences between `Array` and `ArrayList`?
 - When should we use `LinkedList` and when `ArrayList`?
+- How to change a value of the final class with immutable attributes?
 
 **Spring**
 - What bean scopes do we have?
