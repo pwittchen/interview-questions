@@ -28,11 +28,14 @@ List of the questions for the employer
 - Do you work overtime? Is it required or optional? Is it paid?
 - What will be my potential scope of the responsibilities?
 - Who will be my direct boss?
+- Do you use any time-logging systems?
 
 ## Benefits
 - Do you have any additional benefits (except for salary)?
 - Do you have any integration trips?
 - Do you have any educational budget for the trainings and conferences?
 - Do you allow to attend trainings and conferences (as an attendee or speaker)? Are you covering cost of it?
+- Do you allow to work partially or fully remotely?
+- What types of employment/agreement do you offer: B2B contract or permanent employment?
 
 //TODO: review it and add more questions, check JOEL score
