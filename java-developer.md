@@ -121,10 +121,19 @@ List of interview questions for Java Developer role
   - What is common protocol for REST
   - How good RESTful end-point should look like?
   - What are principles of designing good RESTful API?
+ 
+ **Microservices**
+ - What is eventual consistency?
+ - How do you handle transactions or messages between multiple services?
+ - What do you do when one operation in chain of service invocations should not be performed (e.g. shipping product when it's not available in store, but client paid for it)? How to handle such situation in microservice architecture?
+ - What is autodiscovery?
+ - What is curcuit breaker?
+ - How can you monitor services?
+ - What frameworks/libraries can you use for implementing microservices architecture?
   
 **Others**
   - What operating system do you prefer and why?
-  - What are news introduced in Java 8/9/10/11?
+  - What are news introduced in Java 8/9/10/11/...?
   - What technical book did you read recently?
   - What are your methods for learning new things?
   
