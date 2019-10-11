@@ -44,6 +44,8 @@ List of interview questions for Java Developer role
 - What are differences between `Array` and `ArrayList`?
 - When should we use `LinkedList` and when `ArrayList`?
 - How to change a value of the final class with immutable attributes?
+- Can you define custom, mutable object as a key in a HashMap? Why it's wrong idea?
+- How can you create an immutable list in a class in which you won't be able to modify its contents (add/delete/update elements of the list)?
 
 **Spring**
 - What bean scopes do we have?
