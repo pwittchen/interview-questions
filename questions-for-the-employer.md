@@ -7,6 +7,10 @@ List of the questions for the employer
 - Do you have standing desks? Can I have one?
 - What is your tech stack?
 
+## Working agreements
+- Do you allow to work partially or fully remotely?
+- What types of employment/agreement do you offer: B2B contract or permanent employment?
+
 ## Good practices
 - Do you use issue tracking system? Which one?
 - Do you use Continuous Integration Server? Which one?
@@ -36,7 +40,5 @@ List of the questions for the employer
 - Do you have any integration trips?
 - Do you have any educational budget for the trainings and conferences?
 - Do you allow to attend trainings and conferences (as an attendee or speaker)? Are you covering cost of it?
-- Do you allow to work partially or fully remotely?
-- What types of employment/agreement do you offer: B2B contract or permanent employment?
 
 //TODO: review it and add more questions, check JOEL score
