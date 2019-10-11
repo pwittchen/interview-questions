@@ -22,6 +22,7 @@ List of the questions for the employer
 - Does project has any OS-specific dependencies (e.g. to Windows)?
 - Do you share knowledge at work and willing to help other team members when they're stucked?
 - Do you have any internal knowledge-sharing community (e.g. internal tech talks, etc.)?
+- Do you have any regular knowlege sharing meetups or tech talks?
 
 ## Daily work
 - What do you do in case of "fire" (e.g. fuck up in the 4 AM on production)?
