@@ -93,6 +93,7 @@ List of interview questions for Java Developer role
 - What multi-threaded programming models do you know?
 - How do you implement different multi-threaded programming models in Java?
 - How to deal with shared data model in multi-threaded environment?
+- How can you synchronize threads?
 
 **Version Control Systems**
 - What kind of Version Control Systems do you know?
