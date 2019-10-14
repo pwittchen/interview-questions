@@ -128,6 +128,7 @@ List of interview questions for Java Developer role
   - What are principles of designing good RESTful API?
  
  **Microservices**
+ - What is microservice? How will you define it?
  - What is eventual consistency?
  - How do you handle transactions or messages between multiple services?
  - What do you do when one operation in chain of service invocations should not be performed (e.g. shipping product when it's not available in store, but client paid for it)? How to handle such situation in microservice architecture?
