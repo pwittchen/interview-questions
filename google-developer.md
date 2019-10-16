@@ -80,6 +80,7 @@ Preparation stages
 - write functions
 - implement code
 - go top-down (from the most abstract concept to the implementation details)
+- solve task as fast as possible (not loose the time)
 
 ### Be smart
 - Use creativity -> ask questions
