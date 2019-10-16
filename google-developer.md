@@ -1,7 +1,7 @@
 Google Developer Interview Questions
 ====================================
 
-**note**: Google (and other FANG companies) has different approach to interviews, which is based mostly on algorithmic and analytical skills (at least on the first stage). In this document, I'm collecting my basic tips, information and sample questions, which could be relevant during preparations process
+**note**: Google (and other FANG companies) has different approach to interviews, which is based mostly on algorithmic and analytical skills (at least on the first stage). In this document, I'm collecting my basic tips, information and sample questions, which could be relevant during preparations process. Moreover, I also haven't passed this process (yet), but I participated in it.
 
 TBD.
 
