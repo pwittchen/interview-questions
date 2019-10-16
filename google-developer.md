@@ -33,6 +33,9 @@ Coding interview topics
   - Multiple pointers
   - Sliding window
   - Greedy algorithms
+  - Data Flow
+  - Communication in the system
+  - Software design patterns
 
 Where to learn/train coding?
 ----------------------------
