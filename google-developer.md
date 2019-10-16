@@ -25,6 +25,7 @@ Coding interview topics
 - **Analysis**
   - Time and space analysis
   - Big O notation
+  - Design/Thinking about alternative solutions
 - **Others**
   - Induction
   - Proofs
