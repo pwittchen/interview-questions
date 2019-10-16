@@ -7,14 +7,14 @@ Google Developer Interview Questions
 
 Coding interview topics
 -----------------------
-- Data Structures
+- **Data Structures**
   - Arrays + Matrices
   - Linked Lists
   - Queues + Stacks + Heaps
   - Sets + Hash Maps
   - Trees
   - Graphs
-- Algorithms
+- **Algorithms**
   - Iteration + Recursion
   - Binary Search (in trees)
   - DFS + BFS (in graphs)
@@ -22,10 +22,10 @@ Coding interview topics
   - Operations on Lists (e.g. reversing)
   - Operations on Strings (e.g. finding palindrome, anagram, substring, etc.)
   - Dynamic Programming (memoization, divide & conquer)
-- Analysis
+- **Analysis**
   - Time and space analysis
   - Big O notation
-- Others
+- **Others**
   - Induction
   - Proofs
   - OOP and design
@@ -49,9 +49,9 @@ Where to learn/train coding?
 
 Preparation stages
 ------------------
-- Be experienced
-- Know what you're doing
-- Be smart
+- **Be experienced**
+- **Know what you're doing**
+- **Be smart**
 
 ### Be experienced
 - Practice programming trasks
