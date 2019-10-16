@@ -5,9 +5,87 @@ Google Developer Interview Questions
 
 **preferred programming languages to choose for the interview**: C, C++, Java, Python, Go (we should choose language from Google Tech Stack)
 
-TBD.
+Coding interview topics
+-----------------------
+- Data Structures
+  - Arrays + Matrices
+  - Linked Lists
+  - Queues + Stacks + Heaps
+  - Sets + Hash Maps
+  - Trees
+  - Graphs
+- Algorithms
+  - Iteration + Recursion
+  - Binary Search (in trees)
+  - DFS + BFS (in graphs)
+  - Sorting
+  - Operations on Lists (e.g. reversing)
+  - Operations on Strings (e.g. finding palindrome, anagram, substring, etc.)
+  - Dynamic Programming (memoization, divide & conquer)
+- Analysis
+  - Time and space analysis
+  - Big O notation
+- Others
+  - Induction
+  - Proofs
+  - OOP and design
+  - Multiple pointers
+  - Sliding window
+  - Greedy algorithms
 
-...
+Where to learn/train coding?
+----------------------------
+- Learn Data Structures and Algorithms (books and university courses)
+- Leet Code
+- Hacker Rank
+- Geeks for Geeks
+- Cracking Coding Interview Book
+
+Preparation stages
+------------------
+- Be experienced
+- Know what you're doing
+- Be smart
+
+### Be experienced
+- Practice programming trasks
+- Use multiple pointers
+- Use frequency counting
+- Do a lot of interviews
+- Do mock interviews
+
+### Know what you're doing
+- Description of the problem
+- Sample data input/output
+- Constraints
+- Using whiteboard/shared screen
+- Making visualisations
+- Thinking loud
+- Asking questions
+- Try to make coding part look trivial (e.g. by decomposing task)
+- Tell what kind of approach/algorithm/data structures you want to apply
+- Explain solution in plain English
+- Explain everything step-by-step (in bullet points)
+- Use pseudo-code
+- write functions
+- implement code
+- go top-down (from the most abstract concept to the implementation details)
+
+### Be smart
+- Use creativity -> ask questions
+- Self-awareness
+- Consistency -> creating habits and solution strategy, doing tasks often
+- Intensivity -> doing a lot of exercises
+- Motivation
+
+Sample tasks
+------------
+- Strings
+  - find sub-string of a string
+- Stacks
+  - verify if a given string containing different types of parenthesis is balanced
+- Graphs
+  - Find path from point A to B in a maze
 
 References
 ----------
