@@ -35,10 +35,16 @@ Coding interview topics
 
 Where to learn/train coding?
 ----------------------------
-- Learn Data Structures and Algorithms (books and university courses)
+- Learn Data Structures and Algorithms (books, university and on-line courses)
+  - Coursera
+  - Udacity
+  - MIT Open courseware - Introduction to Algorithms
 - Leet Code
 - Hacker Rank
 - Geeks for Geeks
+- Kattis
+- Interview Cake
+- Top Coder
 - Cracking Coding Interview Book
 
 Preparation stages
@@ -80,12 +86,11 @@ Preparation stages
 
 Sample tasks
 ------------
-- Strings
-  - find sub-string of a string
-- Stacks
-  - verify if a given string containing different types of parenthesis is balanced
-- Graphs
-  - Find path from point A to B in a maze
+- find sub-string of a string
+- verify if a given string is a palindrome
+- verify if a given string containing different types of parenthesis is balanced
+- Find path from point A to B in a maze
+- reverse a linked list
 
 References
 ----------
