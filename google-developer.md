@@ -36,6 +36,8 @@ Coding interview topics
   - Data Flow
   - Communication in the system
   - Software design patterns
+  - Handling large amount of data -> e.g. processing data in chunks in parallel
+  - Optimizing Solution
 
 Where to learn/train coding?
 ----------------------------
@@ -65,12 +67,15 @@ Preparation stages
 - Do mock interviews
 
 ### Know what you're doing
+- Clarify the problem and input/output data
+- Talk to the interviewer
 - Description of the problem
 - Sample data input/output
 - Constraints
+- Test your solution (e.g. via going through the steps of algorithm)
 - Using whiteboard/shared screen
 - Making visualisations
-- Thinking loud
+- Thinking out loud during the interview
 - Asking questions
 - Try to make coding part look trivial (e.g. by decomposing task)
 - Tell what kind of approach/algorithm/data structures you want to apply
@@ -96,6 +101,7 @@ Sample tasks
 - verify if a given string containing different types of parenthesis is balanced
 - Find path from point A to B in a maze
 - reverse a linked list
+- find two numbers on the list which equals to a given value
 
 References
 ----------
