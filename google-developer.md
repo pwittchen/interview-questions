@@ -108,7 +108,7 @@ References
 - Videos
   - [Cracking the coding interview](https://www.youtube.com/watch?v=JeT2tXqp4m0)
   - [Mock Google interview](https://www.youtube.com/watch?v=IWvbPIYQPFM)
-  - [Real Google Interview](https://www.youtube.com/watch?v=wVTIJBNBYoM)
+  - [Real Google Interview (screening)](https://www.youtube.com/watch?v=wVTIJBNBYoM)
   - [Top algorithms to know for coding interview](https://www.youtube.com/watch?v=PnnsDf3zEMw)
   - [How I taught myself to code again to get a job at Google](https://www.youtube.com/watch?v=YUZjoow6Zdk)
   - [How I passed coding interviews](https://www.youtube.com/watch?v=lDTKnzrX6qU)
