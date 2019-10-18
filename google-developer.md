@@ -102,6 +102,7 @@ Sample tasks
 - Find path from point A to B in a maze
 - reverse a linked list
 - find two numbers on the list which equals to a given value
+- given a grid (with fields in different colors), find max number of connected colors
 
 References
 ----------
