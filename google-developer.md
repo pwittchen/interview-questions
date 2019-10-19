@@ -115,6 +115,7 @@ References
   - [How I passed coding interviews](https://www.youtube.com/watch?v=lDTKnzrX6qU)
   - [Example coding interview at Google](https://www.youtube.com/watch?v=XKu_SEDAykw)
   - [Interview tips from Google software engineers](https://www.youtube.com/watch?v=XOtrOSatBoY)
+  - [CS Dojo Channel](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
 - Articles
   - [Get that Job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
 - Books
