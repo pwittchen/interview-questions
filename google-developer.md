@@ -12,8 +12,12 @@ Coding interview topics
   - Linked Lists
   - Queues + Stacks + Heaps
   - Sets + Hash Maps
-  - Trees
-  - Graphs
+  - Trees + Graphs
+- *Algorithms/Tasks [main categories]*
+  - Strings + Arrays
+  - Linked Lists
+  - Stacks + Queues
+  - Trees + Graphs
 - **Algorithms**
   - Iteration + Recursion
   - Binary Search (in trees)
@@ -116,6 +120,7 @@ References
   - [Example coding interview at Google](https://www.youtube.com/watch?v=XKu_SEDAykw)
   - [Interview tips from Google software engineers](https://www.youtube.com/watch?v=XOtrOSatBoY)
   - [CS Dojo Channel](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
+  - [Clément Mihailescu Channel](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
 - Articles
   - [Get that Job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
 - Books
