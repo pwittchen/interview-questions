@@ -13,7 +13,7 @@ Coding interview topics
   - Queues + Stacks + Heaps
   - Sets + Hash Maps
   - Trees + Graphs
-- *Algorithms/Tasks [main categories]*
+- **Algorithms/Tasks [main categories]**
   - Strings + Arrays
   - Linked Lists
   - Stacks + Queues
