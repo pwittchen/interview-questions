@@ -47,7 +47,7 @@ Questions on-line (Java)
 
 Mind maps
 ---------
-- https://github.com/KieSun/InterviewMap
+- [Interview Map](https://github.com/KieSun/InterviewMap)
 
 Books and guides about interviews
 ---------------------------------
@@ -65,7 +65,7 @@ Books about coding
 
 System design
 -------------
-- https://github.com/donnemartin/system-design-primer
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 Resources about Java
 --------------------
