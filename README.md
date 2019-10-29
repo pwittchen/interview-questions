@@ -83,6 +83,11 @@ Remote jobs
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 - [A list of established remote companies](https://github.com/yanirs/established-remote)
 
+Job Boards in Poland
+--------------------
+- [No Fluff Jobs](https://nofluffjobs.com/)
+- [Just Join IT](https://justjoin.it/)
+
 Contributing
 ------------
 
