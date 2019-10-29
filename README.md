@@ -54,7 +54,7 @@ Books and guides about interviews
 ---------------------------------
 - [Cracking Coding Interview](https://www.amazon.de/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
   - [PL translation](https://helion.pl/ksiazki/rozmowa-rekrutacyjna-dla-programistow-przewodnik-do-sukcesu-gayle-laakmann-mcdowell,rorepr.htm#format/d)
-- https://github.com/yangshun/tech-interview-handbook
+- [Tech Interview HandBook](https://github.com/yangshun/tech-interview-handbook)
 
 Books about coding
 ------------------
