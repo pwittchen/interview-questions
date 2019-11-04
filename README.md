@@ -82,6 +82,7 @@ Remote jobs
 -----------
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 - [A list of established remote companies](https://github.com/yanirs/established-remote)
+- [Remotive](https://remotive.io/remote-companies)
 
 Job Boards in Poland
 --------------------
