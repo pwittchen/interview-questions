@@ -77,6 +77,7 @@ Others
 ------
 - [Hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
 
 Remote jobs
 -----------
