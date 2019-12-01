@@ -82,16 +82,24 @@ Others
 Remote jobs
 -----------
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
-- [A list of established remote companies](https://github.com/yanirs/established-remote)
+- [We Work Remotely](https://weworkremotely.com/)
 - [Remotive](https://remotive.io/remote-companies)
+- [StackOverflow - Remote](https://stackoverflow.com/jobs?r=true)
+- [No Fluff Jobs - Remote](https://nofluffjobs.com/jobs/remote?criteria=city%3Dremote)
+- [JustJoin.it - Remote](https://justjoin.it/remote)
+- [A list of established remote companies](https://github.com/yanirs/established-remote)
 
 Job Boards
 ----------
-- Poland/Remote
+- Poland
   - [No Fluff Jobs](https://nofluffjobs.com/)
   - [Just Join IT](https://justjoin.it/)
-- World/Remote
+  - [Pracuj.pl](https://www.pracuj.pl/praca/it%20-%20rozw%c3%b3j%20oprogramowania;cc,5016)
+  - [Praca.pl](https://www.praca.pl/informatyka-programowanie.html)
+- World
   - [StackOverflow](https://stackoverflow.com/jobs)
+  - [HackerNews](https://news.ycombinator.com/jobs)
+  - [Ask HN: Who is hiring? (past month)](https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=ASK%20HN%3A%20Who%20is%20hiring&sort=byDate&type=story)
 
 Contributing
 ------------
