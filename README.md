@@ -85,10 +85,13 @@ Remote jobs
 - [A list of established remote companies](https://github.com/yanirs/established-remote)
 - [Remotive](https://remotive.io/remote-companies)
 
-Job Boards in Poland
---------------------
-- [No Fluff Jobs](https://nofluffjobs.com/)
-- [Just Join IT](https://justjoin.it/)
+Job Boards
+----------
+- Poland/Remote
+  - [No Fluff Jobs](https://nofluffjobs.com/)
+  - [Just Join IT](https://justjoin.it/)
+- World/Remote
+  - [StackOverflow](https://stackoverflow.com/jobs)
 
 Contributing
 ------------
