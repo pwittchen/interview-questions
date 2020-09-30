@@ -102,24 +102,15 @@ Job Boards
   - [HackerNews](https://news.ycombinator.com/jobs)
   - [Ask HN: Who is hiring? (past month)](https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=ASK%20HN%3A%20Who%20is%20hiring&sort=byDate&type=story)
   
-#  Practice questions for interviews
-  ---------------------------------
- 
-#   website where you can practice :
-  --------------------------------
-1)[HackerRank](https://www.hackerrank.com/)
-
-2)[HackerEarth](https://www.hackerearth.com/)
-
-3)[GreeksForGreek](https://www.geeksforgeeks.org/)
-
-4)[Interview bit](https://www.interviewbit.com/)
-
-5)[Leet Code](https://leetcode.com/)
-
-6)[CodeForce](https://codeforces.com/)
-
-7)[Codechef](https://codechef.com/)
+Website where you can practice questions for interviews
+-------------------------------------------------------
+- [HackerRank](https://www.hackerrank.com/)
+- [HackerEarth](https://www.hackerearth.com/)
+- [GreeksForGreek](https://www.geeksforgeeks.org/)
+- [Interview bit](https://www.interviewbit.com/)
+- [Leet Code](https://leetcode.com/)
+- [CodeForce](https://codeforces.com/)
+- [Codechef](https://codechef.com/)
 
 
 Contributing
