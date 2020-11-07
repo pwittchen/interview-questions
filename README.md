@@ -46,6 +46,14 @@ Questions on-line (Java)
 - https://www.tutorialspoint.com/java/java_interview_questions.htm
 - https://javarevisited.blogspot.com/2011/04/top-20-core-java-interview-questions.html
 
+Recruitment Coding Tasks
+------------------------
+
+A few of my own coding tasks:
+- Koyo Loans, fin-tech startup, Kotlin Backend Developer (London/Remote): https://github.com/pwittchen/koyo-task-chess (passed)
+- Revolut, fin-tech startup, Java Backend Developer (Kraków): https://github.com/pwittchen/money-transfer-api (not passed)
+- Contentful, headless cms startup, Android Developer (Berlin): https://github.com/pwittchen/SearchTwitter (passed coding task, did not continued the process)
+
 Mind maps
 ---------
 - [Interview Map](https://github.com/KieSun/InterviewMap)
