@@ -52,7 +52,7 @@ Recruitment Coding Tasks
 A few of my own coding tasks:
 - Koyo Loans, fin-tech startup, Kotlin Backend Developer (London/Remote): https://github.com/pwittchen/koyo-task-chess (passed)
 - Revolut, fin-tech startup, Java Backend Developer (Kraków): https://github.com/pwittchen/money-transfer-api (not passed)
-- Contentful, headless cms startup, Android Developer (Berlin): https://github.com/pwittchen/SearchTwitter (passed coding task, did not continued the process)
+- Contentful, headless cms startup, Android Developer (Berlin): https://github.com/pwittchen/SearchTwitter (passed coding task)
 
 Mind maps
 ---------
