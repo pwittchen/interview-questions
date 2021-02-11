@@ -45,6 +45,7 @@ Questions on-line (Java)
 - https://www.javatpoint.com/corejava-interview-questions
 - https://www.tutorialspoint.com/java/java_interview_questions.htm
 - https://javarevisited.blogspot.com/2011/04/top-20-core-java-interview-questions.html
+- https://www.interviewbit.com/java-interview-questions/
 
 Recruitment Coding Tasks
 ------------------------
