@@ -76,6 +76,7 @@ Books about coding
 System design
 -------------
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [Grokking System Desing](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design)
 
 Resources about Java
 --------------------
