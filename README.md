@@ -90,6 +90,10 @@ Others
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
 
+Learning
+--------
+- [Professional Programming](https://github.com/charlax/professional-programming)
+
 Remote jobs
 -----------
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
