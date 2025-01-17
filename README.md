@@ -47,6 +47,10 @@ Questions on-line (Java)
 - https://javarevisited.blogspot.com/2011/04/top-20-core-java-interview-questions.html
 - https://www.interviewbit.com/java-interview-questions/
 
+Leet Code
+---------
+- [Best Leet Code Resources](https://github.com/armankhondker/best-leetcode-resources)
+
 Recruitment Coding Tasks
 ------------------------
 
@@ -77,6 +81,7 @@ System design
 -------------
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Grokking System Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design)
+- [Best System Design Resources](https://github.com/armankhondker/best-system-design-resources)
 
 Resources about Java
 --------------------
